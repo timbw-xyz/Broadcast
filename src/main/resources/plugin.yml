@@ -1,0 +1,9 @@
+name: bcraw
+main: me.timof121.bcraw.Main
+version: 0.1
+author: timof121
+commands:
+  bcraw:
+    description: Broadcasts a message.
+    usage: /bcraw <message>
+    permission: bcraw.use
